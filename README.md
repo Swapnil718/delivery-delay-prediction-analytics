@@ -15,9 +15,12 @@ This project applies machine learning and data visualization to predict late del
 
 - `Predictive Analytics for Delivery Delay Optimization.ipynb` – ML model and EDA in Jupyter.
 - `Train.csv` – Raw dataset used for training and prediction.
-- `Book1.twb` – Tableau dashboard with KPIs, heatmaps, and filters.
 - `README.md` – Project overview and insights.
+  
+## 📊 Tableau Dashboard
 
+ - (tableau/Book1.twb) – Open in Tableau Desktop to explore the dashboard  
+- 🖼️ Preview: dashboard_preview.png
 ---
 ---
 
