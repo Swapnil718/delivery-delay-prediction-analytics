@@ -4,7 +4,6 @@ This project applies machine learning and data visualization to predict late del
 
 --- 
 
----
 
 ## 💻 Tech Stack  
 **Python** · **scikit-learn** · **Pandas** · **NumPy** · **Tableau** · **Matplotlib**  
