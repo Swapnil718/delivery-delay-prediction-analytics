@@ -61,5 +61,4 @@ This project applies machine learning and data visualization to predict late del
 - LinkedIn: Swapnil Yadav https://www.linkedin.com/in/swapnil-yadav-dataanalyst/
 
 ---
-
 > ⭐ Star this repo if you found it useful or insightful!
